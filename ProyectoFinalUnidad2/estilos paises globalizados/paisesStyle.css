@@ -1,0 +1,104 @@
+.menu{
+    background: rgb(18, 18, 102)!important;
+    color: black!important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif!important;
+    font-size: 20px!important;
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 60px;
+    padding-top: 25px;
+    text-align: center;
+    color: rgb(18, 18, 102);
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+
+}
+.paisesglobalizados{
+    margin-left: 85px;
+    margin-right: 85px;
+    margin-top: 25px;
+
+}
+
+.parrafo1{
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 25px;
+    text-align: justify;
+    margin-top: 20px;
+    letter-spacing: 1px;
+}
+.clearfix{
+    font-family:'Times New Roman', Times, serif !important;
+    color: black !important;
+    font-size: 25px !important;
+    text-align: justify !important;
+    margin-top: 25px !important;
+    letter-spacing: 1px !important;
+    margin-right: 85px !important;
+    margin-left: 85px !important;
+}
+titulo2{
+font-size: 40px;
+letter-spacing: 1px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: darkblue;
+}
+
+.video{
+    margin-right: 85px;
+    margin-left: 85px;
+    text-align: center;
+    
+}
+.footer{
+    width: 100%;
+  
+    
+}
+
+.iconosredes{
+text-align: center;
+
+
+}
+
+.ajusteicono{
+    display:inline-block ;
+    margin: 30px 15px;
+    
+
+}
+
+.textofooter{
+   padding-top: 8px ;
+   width: 100%;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   color: white;
+   font-size: 15px;
+   background: blue;
+   height: 80px;
+
+
+}
+.formulario{
+    width: 100%;
+    display: inline-block;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin: 0;
+    padding-top: 2px;
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-attachment: fixed;
+    background-size: 50%;
+}
